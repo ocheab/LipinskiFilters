@@ -1,0 +1,7 @@
+assess_drug_likeness    Assess drug-likeness
+compute_properties      Compute molecular properties
+create_lipinski_plots   Create Lipinski plots
+mols                    Molecules read into R in sdf format
+predict_oral_bioavailability
+                        Predict oral bioavailability
+test_lipinski_rule      Test Lipinski's Rule of Five

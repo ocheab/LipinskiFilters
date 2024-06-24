@@ -1,0 +1,6 @@
+assess_drug_likeness	assess_drug_likeness
+compute_properties	compute_properties
+create_lipinski_plots	create_lipinski_plots
+mols	mols
+predict_oral_bioavailability	predict_oral_bioavailability
+test_lipinski_rule	test_lipinski_rule
